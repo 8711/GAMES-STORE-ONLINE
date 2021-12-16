@@ -1,0 +1,24 @@
+{
+    "name": "Kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "Jesus Manuel Bobadilla Villagrana",
+            "email": "alu.19130509@correo.itlalaguna.edu.mx"
+        },
+        {
+            "name" : "Michael Steve Espinoza ",
+            "email": "alu.19130509@correo.itlalaguna.edu.mx"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
